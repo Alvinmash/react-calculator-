@@ -1,0 +1,8 @@
+# ignore webpack configs 
+webpack.dev.js
+
+#ignore bundled code
+bundle.js
+
+# ignore eslintr.js
+.eslintr.js
