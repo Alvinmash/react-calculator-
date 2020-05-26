@@ -1,0 +1,23 @@
+body{
+  color: black
+}
+
+div{
+  font-size: 14px;
+  text-align: center;
+}
+
+button{ padding:10px;}
+
+h1{ font-size: 50px; }
+
+input, select {
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+  width:100px;
+  display: inline-block;
+}
+
+select{ width: 55px; }
